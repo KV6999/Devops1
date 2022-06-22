@@ -1,4 +1,5 @@
 #!/bin/bash
+#this is an program to Find Sum
 echo "Ënter a Number"
 read Num
 
